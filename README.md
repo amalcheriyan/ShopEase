@@ -8,7 +8,7 @@ A E-commerce Website made with React.js Framework.
 * [Fake Store API](https://fakestoreapi.com/)
 
 ## Demo
-https://shopease.netlify.app/
+https://shopeaseapp.netlify.app/
 
 ## Features
 - Easy to integrate with Backend
